@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+![copertina](https://telegra.ph/file/323beb7fd1d05272e5265.jpg)
+# Licono Clasta
 
-You can use the [editor on GitHub](https://github.com/LiconoClasta/liconoclasta/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Sono una persona multipotenziale.
+Mi diletto a scrivere, ideare, organizzare e consigliare.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> [Seguimi sul mio canale telegram per non perderti le novità! 🚀 @LiconoClasta](http://t.me/liconoclasta)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LiconoClasta/liconoclasta/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Telegram
+- [Network Brew Hub Society](t.me/BHSnet)
+- [Canale Sondaggi Cringe](t.me/SondaggiCrnge)
+- [Community Sogni Lucidi](https://telegra.ph/Sogni-Lucidi-02-16)
+- [Gruppo Lo Scrittoio](t.me/LoScrittoio)
+- [Gioco online Carte Contro l'Umanità](https://telegra.ph/Come-si-gioca-a-Carte-contro-lumanit%C3%A0-02-01)
+## Blog
+- [Cosa guardare su Netflix](https://trello.com/c/j8AWkTmK)
+- [Esperienza di falso risveglio](https://telegra.ph/Falso-Risveglio-02-19)
+## Wattpad
+- Ho un [profilo su Wattpad](http://wattpad.com/malamorbo) in cui scrivo cose strane.
